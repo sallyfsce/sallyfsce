@@ -4,12 +4,12 @@
 
 - 🎓 Estudando Ciência da Computação na FIAP (início fev/2026)
 - 💻 Focada em análise de dados e programação
-- 🌱 Interesse em Infra e áreas de dados
-- 🌐 Inglês B2 
+- 🌱 Interesse em DevOps e áreas de dados
+- 🌐 Inglês B2 · Espanhol básico
 
 ### Principais habilidades:
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,office,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,archlinux,mysql)](https://skillicons.dev)
 
 ### Fale comigo:
 
