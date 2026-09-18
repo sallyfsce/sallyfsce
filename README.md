@@ -9,7 +9,7 @@
 
 ### Principais habilidades:
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,archlinux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,arch,sqlite)](https://skillicons.dev)
 
 ### Fale comigo:
 
