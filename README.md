@@ -4,7 +4,7 @@
 
 - 🎓 Estudando Ciência da Computação na FIAP (início fev/2026)
 - 💻 Focada em análise de dados e programação
-- 🌱 Interesse em DevOps e áreas de dados
+- 🌱 Interesse em Infra e áreas de dados
 - 🌐 Inglês B2 · Espanhol básico
 
 ### Principais habilidades:
